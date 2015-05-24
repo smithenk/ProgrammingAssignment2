@@ -28,3 +28,10 @@ cacheSolve <- function(x, ...) {
   x$setinverse(inv)
   inv
 }
+
+# fork repo
+# git clone https://github.com/rdpeng/ProgrammingAssignment2.git
+# make changes
+# git add .
+# git commit -m 'test'
+# git push origin master
